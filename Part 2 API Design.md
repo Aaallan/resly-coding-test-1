@@ -148,6 +148,8 @@
   - For performance consideration of large volumn of reading action
 - DB Diagram
   - [https://dbdiagram.io/d/Database-Schema-657d3b6656d8064ca02281be]()
+  - ![image](https://github.com/Aaallan/resly-coding-test-1/assets/36944529/45f7263e-65b2-4740-b4fb-62829d8cfd00)
+
 
 ## Authentication & Security
 
